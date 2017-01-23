@@ -1,0 +1,10 @@
+name: PredictSonHeight
+title: PredictSonHeight
+account: bx-ddp
+server: shinyapps.io
+appId: 152549
+bundleId: 687472
+url: https://bx-ddp.shinyapps.io/PredictSonHeight/
+when: 1485119337.98517
+asMultiple: FALSE
+asStatic: FALSE
